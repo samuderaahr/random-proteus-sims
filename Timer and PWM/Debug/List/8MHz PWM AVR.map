@@ -1,0 +1,43 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+twi_tx_index                                                                      0x0300       1
+twi_rx_index                                                                      0x0301       1
+twi_result                                                                        0x0302       1
+txtemp                                                                            0x0303       3
+millis                                                                            0x0306       4
+overflow                                                                          0x030A       1
+slave_address                                                                     0x030B       1
+twi_tx_buffer                                                                     0x030C       2
+bytes_to_tx                                                                       0x030E       1
+twi_rx_buffer                                                                     0x030F       2
+bytes_to_rx                                                                       0x0311       1
+twi_rx_buffer_size                                                                0x0312       1
+twi_slave_rx_handler                                                              0x0313       2
+twi_slave_tx_handler                                                              0x0315       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+r_index                                                                           R4           1
+t_index                                                                           R3           1
+twi_flag                                                                          GPIOR0.0  1bit
+twi_ready                                                                         GPIOR0.1  1bit
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer0_ovf_isr                                                                    0x00081     73
+main                                                                              0x000CA    112
+smartdelay_G000                                                                   0x0013A     36
+i2c_delay_G000                                                                    0x0015E     11
+fetch_ov                                                                          0x00169     26
+twi_master_init                                                                   0x00183     44
+twi_master_trans                                                                  0x001AF    105
+twi_int_handler                                                                   0x00218    380
+putchar                                                                           0x00394     10
+putsf                                                                             0x0039E     21

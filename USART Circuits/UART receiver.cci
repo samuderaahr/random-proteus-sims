@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:408D6BA8
+NODE:I LEVEL:0 LINE:23 "C:\cvavr2\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "*data -> R3"
+NODE:V LEVEL:0 LINE:28 "i -> R2"
+NODE:V LEVEL:0 LINE:28 "n -> R5"
+NODE:V LEVEL:0 LINE:29 "max -> R4"
+NODE:F LEVEL:0 LINE:31 "wait(void)"
+NODE:F LEVEL:0 LINE:39 "rxtx(void)"
+NODE:F LEVEL:0 LINE:54 "main(void)"

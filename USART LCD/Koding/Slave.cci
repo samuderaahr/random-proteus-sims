@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:42C3834C
+NODE:I LEVEL:0 LINE:23 "C:\cvavr2\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\delay.h"
+NODE:M LEVEL:0 LINE:28 "EN"
+NODE:V LEVEL:0 LINE:30 "*string -> R3"
+NODE:V LEVEL:0 LINE:30 "col -> R2"
+NODE:F LEVEL:0 LINE:33 "main(void)"

@@ -1,0 +1,8 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Vexillarius V1.c" LINE:199
+step DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"Vexillarius V1.c" LINE:138
+write2 DSTACK_USAGE:4 DSTACK_LEVEL:12 FILE:"Vexillarius V1.c" LINE:87
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:15 FILE:"C:\cvavr2\lib\lcd.lib" LINE:210
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:16 FILE:"C:\cvavr2\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:18 FILE:"C:\cvavr2\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:19 FILE:"C:\cvavr2\lib\lcd.lib" LINE:77
+ext_int0_isr DSTACK_USAGE:7 DSTACK_LEVEL:26 FILE:"Vexillarius V1.c" LINE:63

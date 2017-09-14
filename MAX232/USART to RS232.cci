@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:408D6AB8
+NODE:I LEVEL:0 LINE:23 "C:\cvavr2\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\string.h"
+NODE:V LEVEL:0 LINE:28 "*data -> R3"
+NODE:V LEVEL:0 LINE:29 "escape -> R2"
+NODE:V LEVEL:0 LINE:30 "n -> R5"
+NODE:V LEVEL:0 LINE:30 "i -> R4"
+NODE:F LEVEL:0 LINE:32 "wait(void)"
+NODE:F LEVEL:0 LINE:40 "send(unsigned char * str)"
+NODE:F LEVEL:0 LINE:52 "main(void)"

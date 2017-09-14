@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Slave.c" LINE:33
+scanf DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1825
+_scanf DSTACK_USAGE:16 DSTACK_LEVEL:21 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1560
+isspace DSTACK_USAGE:1 DSTACK_LEVEL:22 FILE:"C:\cvavr2\lib\ctype.lib" LINE:153
